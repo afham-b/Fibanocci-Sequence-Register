@@ -1,7 +1,7 @@
 ; main.asm - Assembly language source file
 ; Author: Afham Bashir 
 ; Date:   02/19/2021
-; Description: Assignment 5 Fibonnaci Array Program
+; Description: Fibonnaci Array Program
 
 ; main.asm - Assembly language source file
 
